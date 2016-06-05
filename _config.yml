@@ -1,0 +1,28 @@
+name: crystelclear
+favicon: null
+layout_spectrum: 0.8656695547979325
+typography_spectrum: 0.1411874396726489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6110892968717963
+  lightness: 0.8830811223015189
+  saturation: 0.9544587961863726
+  rhythmicContrast: 0.021778159774839878
+purpose: []
